@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #FFD3AB;
+    color: #333;
+    font-weight: 400;
+    background-image: url("heic0611b.jpg");
+    color: white;
+}
+
+.container {
+    /* background-color: #a9abb8; */
+    border-radius: 7px;
+    padding: 2rem;
+    text-align: center;
+    flex: 0 0 50%;
+}
+
+.displayQuoteBtn {
+    background-color: rgb(12, 13, 49);
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 5px 10px;
+    border: none;
+    font-size: 1.25rem;
+    padding: 0.25rem 0.5rem;
+}
+.displayQuoteBtn:hover {
+    color: #e3e7db;
+}
+
+blockquote {
+    background: #181433;
+    border-left: 10px solid #a00404;
+    margin: 1.5rem;
+    color: white;
+}
+
+.author {
+    
+}
