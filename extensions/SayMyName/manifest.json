@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "Hi Man Go On",
+    "name": "Sat My Name",
     "version": "1.0",
-    "description": "my 2nd extention",
+    "description": "my first extention",
     "icons": {
         "128": "icon128.png",
         "48": "icon48.png",
